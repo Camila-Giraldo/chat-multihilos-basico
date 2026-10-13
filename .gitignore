@@ -1,0 +1,15 @@
+# Credenciales: nunca deben subirse
+.env
+.envv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
